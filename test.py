@@ -1,3 +1,4 @@
 x = "This is a Test"
 
-print x
+while True:
+    print x
